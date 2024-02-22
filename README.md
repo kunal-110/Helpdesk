@@ -33,8 +33,4 @@ Refer these documents for development
 I did my best to complete this work in after work hours. There is a lot of room for improvement.
 
 
-<table>
-  <tr>
-    <td align="center"><a href="https://kentcdodds.com"><img src="https://avatars.githubusercontent.com/u/24620962?s=460&u=e86ebfd80b14c121b46db6aa79d38726c3ae8229&v=4" width="100px;" alt=""/><br /><sub><b>Abhinav Gupta</b></sub></a><br />🔍 🚇 🔊</td>
-      </tr>
-</table>
+
